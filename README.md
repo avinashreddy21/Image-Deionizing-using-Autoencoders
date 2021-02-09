@@ -1,6 +1,6 @@
 # Image-Deionizing-using-Autoencoders
 
-In this project,
+In this project, you'll
 * Understand the theory and intuition behind Autoencoders
 * Import Key libraries, dataset and visualize images
 * Perform image normalization, pre-processing, and add random noise to images
