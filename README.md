@@ -1,4 +1,4 @@
-# Image-Deionizing-using-Autoencoders
+# Image-Denoising-using-Autoencoders
 
 In this project, you'll
 * Understand the theory and intuition behind Autoencoders
